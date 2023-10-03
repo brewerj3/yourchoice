@@ -1,0 +1,39 @@
+body {
+  background-image: url("img/background.jpg");
+  background-color: #000C32;
+  background-repeat: no-repeat;
+}
+
+.navbar {
+  background-color: #004E7F;
+  border-color: #002030;
+  color: #f8f8ff;
+}
+
+.spaceHolder {
+  height: 150px;
+}
+
+.card-header {
+  background-color: #004E7F;
+  color: #f8f8ff;
+  padding: 10px 15px;
+  /*border-bottom: 1px solid transparent;*/
+}
+
+p {
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}
+
+.post-space {
+  height: 20px;
+}
+
+.footer-format {
+  color: white;
+  text-align: center;
+}
